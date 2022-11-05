@@ -26,7 +26,7 @@ class App extends Component {
           </a>
         </header>
         <h1>Sample App</h1>
-        <p>This is the app created from sample.</p>
+        <p>This is the app modified by VSC for Web.</p>
       </div>
     );
   }
